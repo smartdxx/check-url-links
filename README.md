@@ -1,7 +1,9 @@
 # check-url-links
 Bu url havolalarni zararlimi yoqmi tekshiradi
 
-usage:
+usage: open virustotal.com and sign up/sign in, open your profile, copy api key and paste in code your api key
+
+open terminal:
   pip install Flask
 
   python check_url.py
