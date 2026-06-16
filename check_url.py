@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # !!! BU YERGA O'ZINGIZNING VIRUSTOTAL API KALITINGIZNI YOZING !!!
-API_KEY = "739dc48dbfeb5f37f184386c1f77cecfc1a9656b75e6d44f761d447abd81c309"
+API_KEY = "Your_VirusTotal_Api_Key_Paste_Here"
 
 def advanced_local_analyze(url):
     """ Sayt tarkibini o'zi yuklab olib, ichidagi kodlarni tahlil qiluvchi funksiya """
@@ -99,7 +99,7 @@ def check_url(url):
 
 
 if __name__ == "__main__":
-    print(f"{Fore.MAGENTA}=== ArcTrd URL Scanner (Hybrid Mode) ===")
+    print(f"{Fore.MAGENTA}=== smartdxx URL Scanner (Hybrid Mode) ===")
     if API_KEY == "YOUR_VIRUSTOTAL_API_KEY_HERE":
         print(f"{Fore.RED}[!] Iltimos, kod ichiga shaxsiy VirusTotal API kalitingizni kiriting!")
     else:
