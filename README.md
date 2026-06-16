@@ -8,4 +8,5 @@ open terminal:
 
   python check_url.py
 
-<img width="1116" height="396" alt="image" src="https://github.com/user-attachments/assets/1463940a-8789-4225-920b-ee1cbc662088" />
+<img width="1112" height="397" alt="image" src="https://github.com/user-attachments/assets/cd5126a8-bd00-4f54-abd6-501ef0b41fa6" />
+
